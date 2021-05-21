@@ -37,6 +37,8 @@
       "pass": "1234qwerty"
     }
   ],
+}  
+{
    "dashboard": [
     {
       "id": 1,
@@ -82,6 +84,7 @@
       "description": "Why Singapore REITs stand out in this low interest rate environment",
       "read_time": "4m read"
       
-    },
-  ]
-}   
+    }
+  ],
+}
+
