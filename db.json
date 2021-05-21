@@ -37,9 +37,7 @@
       "pass": "1234qwerty"
     }
   ],
-}  
-{
-   "dashboard": [
+    "dashboard": [
     {
       "id": 1,
       "image": "https://cdn.britannica.com/55/190455-050-E617F64E/Night-view-Singapore.jpg",
@@ -86,5 +84,5 @@
       
     }
   ],
-}
+}  
 
