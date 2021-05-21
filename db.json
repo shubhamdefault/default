@@ -1,5 +1,5 @@
 {
-  "users": [
+ "users": [
     {
       "id": 1,
       "first_name": "Robert",
@@ -37,44 +37,7 @@
       "pass": "1234qwerty"
     } 
   ],
-  "data": [
-    {
-      "id": 1,
-      "first_name": "Robert",
-      "last_name": "Schwartz",
-      "email": "john@mailinator.com",
-      "pass": "1234qwerty"
-      
-    },
-    {
-      "id": 2,
-      "first_name": "Lucy",
-      "last_name": "Ballmer",
-      "email": "lucyb56@gmail.com",
-      "pass": "1234qwerty"
-    },
-    {
-      "id": 3,
-      "first_name": "Anna",
-      "last_name": "Smith",
-      "email": "annasmith23@gmail.com",
-      "pass": "1234qwerty"
-    },
-    {
-      "id": 4,
-      "first_name": "Robert",
-      "last_name": "Brown",
-      "email": "bobbrown432@yahoo.com",
-      "pass": "1234qwerty"
-    },
-    {
-      "id": 5,
-      "first_name": "Roger",
-      "last_name": "Bacon",
-      "email": "rogerbacon12@yahoo.com",
-      "pass": "1234qwerty"
-    } 
-  ],
-
-}  
-
+  "profile": {
+    "name": "typicode"
+  }
+}
