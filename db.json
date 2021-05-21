@@ -37,7 +37,51 @@
       "pass": "1234qwerty"
     } 
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "dashboard": [
+    {
+      "id": 1,
+      "image": "https://cdn.britannica.com/55/190455-050-E617F64E/Night-view-Singapore.jpg",
+      "title": "Grow Wealth",
+      "description": "Why Singapore REITs stand out in this low interest rate environment",
+      "read_time": "4m read"
+      
+    },
+     {
+      "id": 2,
+      "image": "https://cdn.britannica.com/55/190455-050-E617F64E/Night-view-Singapore.jpg",
+      "title": "Grow Wealth",
+      "description": "Why Singapore REITs stand out in this low interest rate environment",
+      "read_time": "4m read"
+      
+    },
+      {
+      "id": 3,
+      "image": "https://cdn.britannica.com/55/190455-050-E617F64E/Night-view-Singapore.jpg",
+      "title": "Grow Wealth",
+      "description": "Why Singapore REITs stand out in this low interest rate environment",
+      "read_time": "4m read"
+      
+    }, {
+      "id": 4,
+      "image": "https://cdn.britannica.com/55/190455-050-E617F64E/Night-view-Singapore.jpg",
+      "title": "Grow Wealth",
+      "description": "Why Singapore REITs stand out in this low interest rate environment",
+      "read_time": "4m read"
+      
+    }, {
+      "id": 5,
+      "image": "https://cdn.britannica.com/55/190455-050-E617F64E/Night-view-Singapore.jpg",
+      "title": "Grow Wealth",
+      "description": "Why Singapore REITs stand out in this low interest rate environment",
+      "read_time": "4m read"
+      
+    }, {
+      "id": 6,
+      "image": "https://cdn.britannica.com/55/190455-050-E617F64E/Night-view-Singapore.jpg",
+      "title": "Grow Wealth",
+      "description": "Why Singapore REITs stand out in this low interest rate environment",
+      "read_time": "4m read"
+      
+    }
+  ]
 }
